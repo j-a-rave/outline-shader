@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToonShaderDemo.shader">
+    <Files>
+      <File FileName="Assets\Script\VertColor.cs" Line="11" Column="38" />
+      <File FileName="Assets\Script\Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\FuzzyIncidentEdge.shader" Line="5" Column="44" />
+      <File FileName="Assets\ToonShaderDemo.shader" Line="14" Column="15" />
+      <File FileName="Assets\VtxColor.shader" Line="42" Column="2" />
+      <File FileName="Assets\Wireframe.shader" Line="10" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
